@@ -1,0 +1,1 @@
+# Vector store module for FAISS operations

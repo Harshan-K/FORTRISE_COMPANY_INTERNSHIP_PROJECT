@@ -1,0 +1,3 @@
+# This directory stores FAISS index files at runtime.
+# faiss_index.index and documents.pkl are excluded via .gitignore.
+# They are rebuilt automatically when documents are uploaded.
