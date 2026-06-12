@@ -1,6 +1,10 @@
-# QuestionHub AI — Intelligent Question Paper Generator
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/4a33d368-5b64-4f0d-bede-a54913db3475" /># QuestionHub AI — Intelligent Question Paper Generator
 
 An AI-powered system that automatically generates university-level examination papers from uploaded academic documents using RAG, FAISS vector search, Groq LLM, LangGraph, CrewAI, and a Gradio UI.
+
+---
+## Project View 
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/4f11e628-d65f-43c6-a394-a81ab05feec9" />
 
 ---
 
